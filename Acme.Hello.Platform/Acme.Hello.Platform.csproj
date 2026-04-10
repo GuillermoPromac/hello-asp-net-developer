@@ -12,8 +12,8 @@
     </ItemGroup>
 
     <ItemGroup>
-      <Folder Include="Generic\Interfaces\REST\Assemblers\" />
-      <Folder Include="Generic\Interfaces\REST\Resources\" />
+        <Folder Include="Generic\Interfaces\REST\Assemblers\" />
+        <Folder Include="Generic\Interfaces\REST\Resources\" />
     </ItemGroup>
 
 </Project>
